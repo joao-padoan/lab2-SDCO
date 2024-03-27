@@ -1,8 +1,8 @@
 /**
  * Laboratorio 1 de Sistemas Distribuidos
  * 
- * Autor: Lucio A. Rocha
- * Ultima atualizacao: 17/12/2022
+ * Nome: João Pedro Padoan
+ * Modificado de: Lucio A. Rocha
  */
 
  import java.io.BufferedReader;
